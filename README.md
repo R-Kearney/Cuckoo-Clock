@@ -1,7 +1,7 @@
 # Cuckoo-Clock
 Arduino Controlled Cuckoo Clock
 
-This project came about after my Nana's old Cuckoo Clock stopped working one day.
+This project came about after my Nana's old Cuckoo Clock stopped working day.
 
 She missed the birds song and apperance every hour.
 
