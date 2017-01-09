@@ -17,7 +17,7 @@ The Arduino would connect to the Bird out Motor, Flap wings Solenoid, Speaker an
 The Cuckoo sound was converted to 8-bit PCM to fit onto the Arduino's built in Memory.
 
 
-##Standard operation of the new electronics is:
+###Standard operation of the new electronics:
 
 1. If LDR indicates its Day & Hour contacts are pressed:
 2. Activate motor to send the bird out
